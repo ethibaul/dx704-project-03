@@ -1,0 +1,5 @@
+strategy	regret
+uniform	50.0
+just-0	100.0
+just-1	0.0
+actual	29.0

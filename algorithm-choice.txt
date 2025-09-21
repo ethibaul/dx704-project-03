@@ -1,0 +1,7 @@
+My choice is UCB (Upper Confidence Bound)
+
+Justification: Rewards are bounded, right-skewed with unequal variances and many zeros. 
+UCB deals with those factors by being variance aware and simple with continuous bounded rewards. 
+It also avoids the modeling assumptions required for Thompson Sampling and the potentially wasteful
+overhead of ε-greedy
+
