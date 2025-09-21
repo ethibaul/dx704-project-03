@@ -1,6 +1,6 @@
 strategy	regret
-uniform	50.0
-just-0	100.0
+uniform	49.999999999999986
+just-0	99.99999999999997
 just-1	0.0
-just-2	50.0
-actual	32.5
+just-2	50.00000000000004
+actual	32.50000000000001
